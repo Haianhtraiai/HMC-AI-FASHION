@@ -1,0 +1,7 @@
+{
+  "name": "HMC AI FASHION HOÀN CHỈNH",
+  "description": "An AI-powered fashion application that allows users to upload product images and visualize them on various Vietnamese models in different realistic backgrounds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
